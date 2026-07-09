@@ -1,4 +1,4 @@
-#Question 3.
+#Question 3
 # Add a new key-value pair and update an existing value
 
 student = {

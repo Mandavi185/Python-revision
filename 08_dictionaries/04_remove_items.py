@@ -1,4 +1,4 @@
-#Question 4.
+#Question 4
 # Remove an item using pop() and del
 # method1. Using pop()
 '''

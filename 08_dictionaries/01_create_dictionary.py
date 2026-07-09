@@ -1,4 +1,4 @@
-#Question 1.
+#Question 1
 # Create a dictionary containing a student's name, age, and branch
 
 student = {

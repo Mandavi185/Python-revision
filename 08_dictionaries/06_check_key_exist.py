@@ -1,5 +1,5 @@
 #Question 6
-# Check whether a key exists using the in operator
+# Check whether a key exists using the in operator.
 
 student = {
     "name": "Mandavi",

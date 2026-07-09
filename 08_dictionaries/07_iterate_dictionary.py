@@ -1,5 +1,5 @@
 #Question 7.
-# Iterate through a dictionary using a for loop
+# Iterate through a dictionary using a for loop.
 
 student = {
     "name": "Mandavi",

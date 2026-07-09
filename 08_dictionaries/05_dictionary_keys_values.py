@@ -1,5 +1,5 @@
 #Question 5.
-# Print all keys and all values separately
+# Print all keys and all values separately.
 
 student = {
     "name": "Mandavi",

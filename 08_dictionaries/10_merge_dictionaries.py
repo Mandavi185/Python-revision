@@ -1,5 +1,5 @@
-#Question 10.
-# Merge two dictionaries
+#Question 10
+# Merge two dictionaries.
 
 dict1 = {
     "name": "Mandavi",

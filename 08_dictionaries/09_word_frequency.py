@@ -1,5 +1,5 @@
 #Question 9.
-# Count the frequency of each character in a string using a dictionary
+# Count the frequency of each character in a string using a dictionary.
 
 text = input("Enter a string: ")
 

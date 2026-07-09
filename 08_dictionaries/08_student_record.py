@@ -1,5 +1,5 @@
 #Question 8.
-# Create a student record dictionary and display all details
+# Create a student record dictionary and display all details.
 
 student = {
     "roll": 101,

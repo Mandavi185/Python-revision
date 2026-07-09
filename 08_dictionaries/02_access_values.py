@@ -1,4 +1,4 @@
-#Question 2.
+#Question 2
 # Access and print a value using its key
 
 student = {
