@@ -1,4 +1,4 @@
-# Question 1
+# Question 1.
 # find the quotient and remainder of two numbers.
 
 a = int(input("Enter first number:"))
