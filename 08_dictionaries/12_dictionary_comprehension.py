@@ -1,4 +1,4 @@
-#Question 12.
+#Question 12
 # Dictionary Comprehension
 
 squares = {x: x*x for x in range(1, 6)}
